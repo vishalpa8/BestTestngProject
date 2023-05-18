@@ -1,0 +1,5 @@
+
+CreateNewParticipationTests:
+  BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan:
+    regression:
+          - {opportunityType: "Participation New", loanAmount: "1000000.00", username: "", password: ""}

@@ -1,0 +1,16 @@
+com\Banklabs\pages\OpportunityPage\DescriptionSection.class
+tests\Base\BaseTest.class
+com\Banklabs\pages\OpportunityPage\PreliminaryUnderwritingSection.class
+com\Banklabs\pages\OpportunityPage\OriginatorSection.class
+com\Banklabs\pages\BasePage$1.class
+dataproviders\YamlDataReader.class
+com\Banklabs\pages\OpportunityPage\StatisticsSection.class
+tests\CreateNewParticipation\CreateNewParticipationTests.class
+com\Banklabs\pages\OpportunityPage\BorrowerSection.class
+dataproviders\YamlDataProvider.class
+com\Banklabs\pages\LoginPage.class
+tests\userPermissionPage\UserPermissionPageTests.class
+com\Banklabs\pages\HomePage.class
+constants\AppConstants.class
+com\Banklabs\pages\BasePage.class
+factory\DriverFactory.class

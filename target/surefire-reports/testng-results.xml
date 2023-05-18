@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T16:07:39 IST" name="tests.CreateNewParticipation.CreateNewParticipationTests" finished-at="2023-05-18T16:08:19 IST" duration-ms="40304">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T16:07:39 IST" name="Command line test" finished-at="2023-05-18T16:08:19 IST" duration-ms="40304">
+      <class name="tests.CreateNewParticipation.CreateNewParticipationTests">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3]" started-at="2023-05-18T16:07:35 IST" name="suiteSetup" finished-at="2023-05-18T16:07:39 IST" duration-ms="3663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method is-config="true" signature="baseClassSetup()[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3]" started-at="2023-05-18T16:07:39 IST" name="baseClassSetup" finished-at="2023-05-18T16:07:45 IST" duration-ms="6231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseClassSetup -->
+        <test-method is-config="true" signature="classSetup()[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3]" started-at="2023-05-18T16:07:45 IST" name="classSetup" finished-at="2023-05-18T16:07:45 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method is-config="true" signature="logTestMethod(java.lang.reflect.Method)[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3]" started-at="2023-05-18T16:07:45 IST" name="logTestMethod" finished-at="2023-05-18T16:07:45 IST" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.CreateNewParticipation.CreateNewParticipationTests.BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan(java.util.Map)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestMethod -->
+        <test-method signature="BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan(java.util.Map)[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3]" started-at="2023-05-18T16:07:45 IST" name="BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan" description="Agriculture Crop Production Loan" data-provider="testData-dataSource" finished-at="2023-05-18T16:08:19 IST" duration-ms="33550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{opportunityType=Participation New, loanAmount=1000000.00, username=, password=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method, org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3]" started-at="2023-05-18T16:08:19 IST" name="afterMethod" finished-at="2023-05-18T16:08:19 IST" duration-ms="397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.CreateNewParticipation.CreateNewParticipationTests.BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan(java.util.Map)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan status=SUCCESS method=CreateNewParticipationTests.BLP_1510_Proper_fields_are_presented_when_creating_Agriculture_Crop_Production_Loan(java.util.Map)[pri:0, instance:tests.CreateNewParticipation.CreateNewParticipationTests@479d31f3] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@511f5b1d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.CreateNewParticipation.CreateNewParticipationTests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.CreateNewParticipation.CreateNewParticipationTests -->
+</testng-results>
